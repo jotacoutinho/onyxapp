@@ -1,0 +1,1 @@
+const baseUrl = 'http://demo1819704.mockable.io';

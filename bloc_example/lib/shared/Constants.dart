@@ -1,0 +1,1 @@
+const requestRoomsError = 'Desculpe, não foram encontradas salas.';
